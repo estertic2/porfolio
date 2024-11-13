@@ -15,6 +15,6 @@ just_the_docs:
         url: /
         children:
           - Tema1:
-              url: /tema1/
+              url: /tema 1/
           - Tema2:
-              url: /tema2/
+              url: /tema 2/
