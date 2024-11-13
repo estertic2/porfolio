@@ -6,3 +6,15 @@ url: https://just-the-docs.github.io
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
+# Configuración del menú de navegación
+just_the_docs:
+  # Estructura de navegación
+  nav:
+    - Home:
+        url: /
+        children:
+          - Tema1:
+              url: /tema1/
+          - Tema2:
+              url: /tema2/
