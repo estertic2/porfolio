@@ -14,7 +14,7 @@ just_the_docs:
     - Home:
         url: /
         children:
-          - Tema1:
-              url: /tema1/
+          - Bloque 1:
+              url: /Bloque1/
           - Tema2:
               url: /tema2/
