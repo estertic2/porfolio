@@ -5,7 +5,7 @@ children: 2
 ---
 
 # Taller de relaciones digitales responsables
-** 👋 Bienvenidos/as a este nuevo curso de Informática 1º de la ESO**
+** 👋 "Bienvenidos/as a este nuevo curso de Informática 1º de la ESO"**
 
 Este curso está dividido en 4 bloques:
 
