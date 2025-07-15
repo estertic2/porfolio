@@ -11,6 +11,7 @@ Este curso está dividido en 4 bloques:
 
 - 📱 **Bloque 1:** Dispositivos digitales e Internet  
 - 🔍 **Bloque 2:** Búsqueda, selección, organización y creación de contenidos digitales  
-- 🧑‍💻 **Bloque 3:** Identidad digital  
+- 🧑 **Bloque 3:** Identidad digital  
 - 🤝 **Bloque 4:** Relaciones en entorno digital  
+
 
